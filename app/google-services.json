@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1091422150106",
+    "firebase_url": "https://chat-1b856.firebaseio.com",
+    "project_id": "chat-1b856",
+    "storage_bucket": "chat-1b856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091422150106:android:caf4cc7e7acb37d6",
+        "android_client_info": {
+          "package_name": "com.ygorcesar.jamdroidfirechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091422150106-qtj9pe0jasfskdva7ae9aoa8cnlgrv8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMG-MePKMW9hbKkpUfuPDhI1yx97UfKvo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
